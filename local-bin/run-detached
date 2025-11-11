@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+setsid -f "$@" </dev/null >/dev/null 2>&1
