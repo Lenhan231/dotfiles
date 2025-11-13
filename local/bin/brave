@@ -1,3 +1,0 @@
-# ~/.local/bin/brave
-#!/usr/bin/env bash
-exec setsid -f /opt/brave-bin/brave "$@" </dev/null >/dev/null 2>&1
