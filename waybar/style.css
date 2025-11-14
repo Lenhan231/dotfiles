@@ -1,0 +1,42 @@
+.modules-left {
+    margin-left: 10px;
+    padding: 0 5px;
+    color: aquamarine;
+}
+
+.modules-center {
+    margin: 0 10px;
+    padding: 0 5px;
+    color: lightcoral;
+}
+
+.modules-right {
+    margin-right: 10px;
+    padding: 0 5px;
+    color: lightgreen;
+}
+.position-top {
+    background-color: #222;
+    border-bottom: 2px solid #444;
+}
+.position-bottom {
+    background-color: #222;
+    border-top: 2px solid #444;
+}
+.position-left {
+    background-color: #222;
+    border-right: 2px solid #444;
+}
+.position-right {
+    background-color: #222;
+    border-left: 2px solid #444;
+}
+.module {
+    font-family: 'Fira Code', monospace;
+    font-size: 14px;
+}
+
+#waybar * {
+    padding-top: 0;
+    padding-bottom: 0;
+}
